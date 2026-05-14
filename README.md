@@ -6,14 +6,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Cycle001/LeetCodePractice/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Cycle001/LeetCodePractice/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Cycle001/LeetCodePractice/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Cycle001/LeetCodePractice/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Cycle001/LeetCodePractice/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Cycle001/LeetCodePractice/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -23,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Cycle001/LeetCodePractice/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Cycle001/LeetCodePractice/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 <!---LeetCode Topics End-->
